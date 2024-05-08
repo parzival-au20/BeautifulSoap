@@ -1,0 +1,60 @@
+HelicopterInvestor adlı CSV dosyası oluşturuldu.
+fetch_HelicopterInvestor_news islemi  18.022234678268433 saniye surdu
+Airbus adlı CSV dosyası oluşturuldu.
+fetch_Airbus_news islemi  10.058485984802246 saniye surdu
+BellFlight adlı CSV dosyası oluşturuldu.
+fetch_BellFlight_news islemi  12.590299606323242 saniye surdu
+DefenceNews adlı CSV dosyası oluşturuldu.
+fetch_DefenceNews_news islemi  5.559489727020264 saniye surdu
+Enstrom adlı CSV dosyası oluşturuldu.
+fetch_Enstrom_news islemi  19.51149272918701 saniye surdu
+GEAerospace adlı CSV dosyası oluşturuldu.
+fetch_GEAerospace_news islemi  17.14106249809265 saniye surdu
+AirTurkHaber adlı CSV dosyası oluşturuldu.
+fetch_AirTurk_news islemi  5.764628171920776 saniye surdu
+VerticalMag adlı CSV dosyası oluşturuldu.
+fetch_VerticalMag_news islemi  33.8909227848053 saniye surdu
+JustHelicopters adlı CSV dosyası oluşturuldu.
+fetch_JustHelicopters_news islemi  15.192385196685791 saniye surdu
+Text not found for: https://www.leonardo.com/en/news-and-stories-detail/-/detail/e_ora_leonardo_e_donna
+Text not found for: https://www.leonardo.com/en/news-and-stories-detail/-/detail/come_possiamo_proteggere_mondo_interamente_digitalizzato
+Text not found for: https://www.leonardo.com/en/news-and-stories-detail/-/detail/welfare-66-coach
+Leonardo adlı CSV dosyası oluşturuldu.
+fetch_Leanardo_news islemi  24.803686380386353 saniye surdu
+HeliHub adlı CSV dosyası oluşturuldu.
+fetch_HeliHub_news islemi  85.11363506317139 saniye surdu
+lockheedmartin adlı CSV dosyası oluşturuldu.
+fetch_lockheedmartin_news islemi  19.258529663085938 saniye surdu
+Robinson adlı CSV dosyası oluşturuldu.
+fetch_Robinson_news islemi  29.511683702468872 saniye surdu
+RotorAndWing adlı CSV dosyası oluşturuldu.
+fetch_RotorAndWing_news islemi  25.425695180892944 saniye surdu
+TheWarzone adlı CSV dosyası oluşturuldu.
+fetch_TheWarzone_news islemi  100.20865797996521 saniye surdu
+DefenceTurk adlı CSV dosyası oluşturuldu.
+fetch_DefenceTurk_news islemi  36.54942059516907 saniye surdu
+SavunmaSanayist adlı CSV dosyası oluşturuldu.
+fetch_SavunmaSanayist_news islemi  21.457700490951538 saniye surdu
+TurDef adlı CSV dosyası oluşturuldu.
+fetch_TurDef_news islemi  19.613157033920288 saniye surdu
+AirlineHaber adlı CSV dosyası oluşturuldu.
+fetch_Airline_news islemi  16.083356618881226 saniye surdu
+AirportHaber adlı CSV dosyası oluşturuldu.
+fetch_airporthaber_news islemi  12.308716535568237 saniye surdu
+DefenceTurkey adlı CSV dosyası oluşturuldu.
+fetch_DefenceTurkey_news islemi  41.528825759887695 saniye surdu
+AirNewsTimes adlı CSV dosyası oluşturuldu.
+fetch_AirNewsTimes_news islemi  19.137895822525024 saniye surdu
+AIAA adlı CSV dosyası oluşturuldu.
+fetch_AIAA_news islemi  121.90720987319946 saniye surdu
+MDHelicopters adlı CSV dosyası oluşturuldu.
+fetch_MDHelicopters_news islemi  12.82094430923462 saniye surdu
+AinOnline adlı CSV dosyası oluşturuldu.
+fetch_ainonline_news islemi  228.66818356513977 saniye surdu
+ 524
+ 524
+ 524
+DefenceWeb adlı CSV dosyası oluşturuldu.
+fetch_DefenceWeb_news islemi  555.2662239074707 saniye surdu
+islem 1507.399883031845 saniye surdu
+Haberler başarıyla çekildi.

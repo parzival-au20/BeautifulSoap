@@ -1,0 +1,9 @@
+INFO:root:Fetching işlemi başladı 2024-05-09 00:59:12.240364
+INFO:root:HelicopterInvestor adlı CSV dosyası oluşturuldu.
+INFO:root:fetch_HelicopterInvestor_news islemi  15.069626808166504 saniye surdu
+INFO:root:Airbus adlı CSV dosyası oluşturuldu.
+INFO:root:fetch_Airbus_news islemi  10.198516845703125 saniye surdu
+INFO:root:BellFlight adlı CSV dosyası oluşturuldu.
+INFO:root:fetch_BellFlight_news islemi  11.861804962158203 saniye surdu
+INFO:root:islem 37.13233017921448 saniye surdu
+INFO:root:Haberler başarıyla çekildi.2024-05-09 00:59:49.373371

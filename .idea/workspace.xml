@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="270088fc-da2c-48ca-b579-e63f9d7ef40e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AIAA.py" beforeDir="false" afterPath="$PROJECT_DIR$/AIAA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AinOnline.py" beforeDir="false" afterPath="$PROJECT_DIR$/AinOnline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AirTurkHaber.py" beforeDir="false" afterPath="$PROJECT_DIR$/AirTurkHaber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AirlineHaber.py" beforeDir="false" afterPath="$PROJECT_DIR$/AirlineHaber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AirportHaber.py" beforeDir="false" afterPath="$PROJECT_DIR$/AirportHaber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BellFlight.py" beforeDir="false" afterPath="$PROJECT_DIR$/BellFlight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV-03-28/GEAerospace-0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV-03-28/GEAerospace-0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV-03-28/HeliHub-0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV-03-28/HeliHub-0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV-03-28/TurDef-0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV-03-28/TurDef-0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DefenceNews.py" beforeDir="false" afterPath="$PROJECT_DIR$/DefenceNews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DefenceTurk.py" beforeDir="false" afterPath="$PROJECT_DIR$/DefenceTurk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DefenceTurkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/DefenceTurkey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DefenceWeb.py" beforeDir="false" afterPath="$PROJECT_DIR$/DefenceWeb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enstrom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Enstrom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightGlobal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEAerospace.py" beforeDir="false" afterPath="$PROJECT_DIR$/GEAerospace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeliHub.py" beforeDir="false" afterPath="$PROJECT_DIR$/HeliHub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelicopterInvestor.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelicopterInvestor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JustHelicopters.py" beforeDir="false" afterPath="$PROJECT_DIR$/JustHelicopters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leonardo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leonardo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDHelicopters.py" beforeDir="false" afterPath="$PROJECT_DIR$/MDHelicopters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robinson.py" beforeDir="false" afterPath="$PROJECT_DIR$/Robinson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RotorAndWing.py" beforeDir="false" afterPath="$PROJECT_DIR$/RotorAndWing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SavunmaSanayist.py" beforeDir="false" afterPath="$PROJECT_DIR$/SavunmaSanayist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheWarzone.py" beforeDir="false" afterPath="$PROJECT_DIR$/TheWarzone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurDef.py" beforeDir="false" afterPath="$PROJECT_DIR$/TurDef.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VerticalMag.py" beforeDir="false" afterPath="$PROJECT_DIR$/VerticalMag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/AIAA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/AIAA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/AinOnline.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/AinOnline.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/AirTurkHaber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/AirTurkHaber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/Airbus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/Airbus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/AirlineHaber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/AirlineHaber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/AirportHaber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/AirportHaber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/BellFlight.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/BellFlight.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/DefenceNews.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/DefenceNews.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/DefenceTurk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/DefenceTurk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/DefenceTurkey.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/DefenceTurkey.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/DefenceWeb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/DefenceWeb.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/Enstrom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/Enstrom.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/GEAerospace.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/GEAerospace.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/HeliHub.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/HeliHub.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/HelicopterInvestor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/HelicopterInvestor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/JustHelicopters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/JustHelicopters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/Leonardo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/Leonardo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/MDHelicopters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/MDHelicopters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/Robinson.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/Robinson.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/RotorAndWing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/RotorAndWing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/SavunmaSanayist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/SavunmaSanayist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/TheWarzone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/TheWarzone.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/TurDef.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/TurDef.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/VerticalMag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/VerticalMag.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDates/lockheedmartin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDates/lockheedmartin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airbuscorporatehelicopters.py" beforeDir="false" afterPath="$PROJECT_DIR$/airbuscorporatehelicopters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lockheedmartin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lockheedmartin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test-3.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TurDef.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebSiteDates/Leonardo.txt" />
+        <option value="$PROJECT_DIR$/Leonardo.py" />
+        <option value="$PROJECT_DIR$/JustHelicopters.py" />
+        <option value="$PROJECT_DIR$/WebSiteDates/JustHelicopters.txt" />
+        <option value="$PROJECT_DIR$/WebSiteDates/DefenseHere.txt" />
+        <option value="$PROJECT_DIR$/WebSiteDates/AirNewsTimes.txt" />
+        <option value="$PROJECT_DIR$/WebSiteDates/TurDef.txt" />
+        <option value="$PROJECT_DIR$/DefenseHere.py" />
+        <option value="$PROJECT_DIR$/AirNewsTimes.py" />
+        <option value="$PROJECT_DIR$/WebSiteDates/DefenceTurk.txt" />
+        <option value="$PROJECT_DIR$/DefenceTurk.py" />
+        <option value="$PROJECT_DIR$/WebSiteDates/AirlineHaber.txt" />
+        <option value="$PROJECT_DIR$/WebSiteDates/AinOnline.txt" />
+        <option value="$PROJECT_DIR$/WebSiteDates/Enstrom.txt" />
+        <option value="$PROJECT_DIR$/WebSiteDates/DefenceWeb.txt" />
+        <option value="$PROJECT_DIR$/WebSiteDates/AirportHaber.txt" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/main2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Selenium -edge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium -edge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main3.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main2">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main2" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="270088fc-da2c-48ca-b579-e63f9d7ef40e" name="Default Changelist" comment="" />
+      <created>1713332999055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713332999055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.17226435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.26868907" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AirNewsTimes.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HeliHub-0.csv" />
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/Leanardo.txt" />
+    <entry file="file://$PROJECT_DIR$/Leonardo-0.csv" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python311/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python311/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/Leonardo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leonardo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="48" column="115" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEAerospace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JustHelicopters-0.csv" />
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/JustHelicopters.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JustHelicopters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefenceTurkey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python311/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="752" selection-start-line="752" selection-end-line="752" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python311/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefenseHere-0.csv" />
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/DefenseHere.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/AirNewsTimes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TurDef-0.csv" />
+    <entry file="file://$PROJECT_DIR$/AirNewsTimes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="53" column="89" selection-start-line="53" selection-start-column="89" selection-end-line="53" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefenseHere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/TurDef.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefenceTurk-1.csv" />
+    <entry file="file://$PROJECT_DIR$/DefenceTurk-0.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/AirlineHaber.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/DefenceTurk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlightGlobal.py" />
+    <entry file="file://$PROJECT_DIR$/DefenceWeb-1.csv" />
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/DefenceWeb.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/AIAA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIAA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/Enstrom.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/AirportHaber.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefenceWeb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="39" column="109" selection-start-line="39" selection-start-column="109" selection-end-line="39" selection-end-column="125" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDates/AinOnline.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefenceTurk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="44" column="133" selection-start-line="44" selection-start-column="133" selection-end-line="44" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AinOnline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="66" column="42" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TurDef.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python311/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1834">
+          <caret line="210" column="67" lean-forward="true" selection-start-line="210" selection-start-column="67" selection-end-line="210" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
